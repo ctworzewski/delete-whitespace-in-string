@@ -1,0 +1,1 @@
+# delete-whitespace-in-string
